@@ -1,4 +1,4 @@
-#  ...
+#  Hello there!
 
 My name is **Krzysztof Koziol** and I'm seasoned software engineer. I've been professionaly creating software utilizing JVM ecosystem since 2004, currently focused on backend solutions, bioinformatics, AI and distributed system architectures.
 
