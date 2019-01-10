@@ -1,6 +1,9 @@
-#  Hello there!
+#  Hello.
 
-My name is **Krzysztof Koziol** and I'm a seasoned Software Engineer. I've been professionally creating software utilizing JVM platform since 2004. Currently focused on backend solutions, AI and distributed system architectures.
+My name is **Krzysztof Koziol** and I'm a Seasoned Software Engineer woking now as an independent consultant.
+I've been professionally creating software utilizing JVM platform since 2004. Currently focused on backend solutions, AI and distributed system architectures.
+
+Outside of programming I enjoy traveling, sailing and spending time with my friends and family.
 
 You can find me on 
 [Github](http://github.com/koziolk), 
