@@ -1,7 +1,7 @@
 # Hello.
 
-My name is **Krzysztof Koziol** and I'm a Seasoned Software Engineer woking now as an independent consultant.
-I've been professionally delivering software utilizing JVM platform since 2004. Currently focused on backend solutions, AI and distributed system architectures.
+My name is **Krzysztof Koziol** and I'm a Seasoned Software Engineer working now as an independent consultant.
+I've been professionally delivering software utilizing JVM platform since 2004. Currently focused on backend solutions, AI and distributed system architectures. 
 
 Outside of programming I enjoy traveling, sailing and spending time with my family and friends.
 
