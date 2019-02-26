@@ -13,7 +13,5 @@ You can find me on
 
 Feel free to drop me a line :)
 
-#### Software development 
-#### seems to be somewhere 
-#### between art, engineering 
-#### and science...
+#### Software development seems to be somewhere between 
+#### art, engineering and science...
