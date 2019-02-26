@@ -1,4 +1,4 @@
-# Hello.
+# Hello, Hola, สวัสดี
 
 My name is **Krzysztof Koziol** and I'm a Seasoned Software Engineer working now as an independent consultant.
 I've been professionally delivering software utilizing JVM platform since 2004. Currently focused on backend solutions, AI, 
@@ -13,4 +13,4 @@ You can find me on
 
 Feel free to drop me a line :)
 
-#### "Software development seems to be somewhere between art, engineering and science..."
+#### Software development seems to be somewhere between art, engineering and science...
