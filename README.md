@@ -13,7 +13,6 @@ You can find me on
 
 Feel free to drop me a line :)
 
-/var/users/koziolk -ls
 
 ###### *"Premature optimization is the root of all evil"*
 
